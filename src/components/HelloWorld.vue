@@ -11,7 +11,9 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
+      A simple task for you: authentication (login, router + routeGuard, optional interceptor, optional axios instance), using
+      <a href="https://dummyjson.com/" target="_blank" rel="noopener">DummyJSON</a> +
+      <a href="https://www.axios.com/" target="_blank" rel="noopener">Axios</a> +
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
     </h3>

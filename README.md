@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+A simple task for you: authentication (login, router + routeGuard, optional interceptor, optional axios instance), using DummyJSON + Axios + Vite + Vue 3.
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
@@ -26,4 +28,11 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+## Login Credentials:
+
+```sh
+username: emilys
+password: emilyspass
 ```
